@@ -1,2 +1,0 @@
-# Cedronian
-A exploration mod
